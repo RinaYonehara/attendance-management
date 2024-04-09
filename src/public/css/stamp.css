@@ -1,0 +1,35 @@
+.greeting {
+    width: 100%;
+    font-size: 20px;
+    margin-left: 15vw;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 30px;
+    background-color: rgb(220, 214, 214);
+}
+
+.attendance__choice {
+    display: inline;
+    font-size: 30px;
+    padding-top: 30px;
+}
+
+
+.attendance__choice-start,.attendance__choice-end {
+    display: inline;
+    margin-right: 3px;
+    margin-left: 19vw;
+}
+
+.attendance__choice-break-begin,.attendance__choice-break-end {
+    display: inline;
+    margin-left: 19vw;
+}
+
+
+.copyright {
+    margin-top: 2vw;
+    margin-left: 40vw;
+    font-size: 1.2vw;
+    color: gray;
+}
